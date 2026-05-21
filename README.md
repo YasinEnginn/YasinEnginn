@@ -2,28 +2,49 @@
 
 # Yasin Engin
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student+(OM%C3%9C);SDN+%26+Network+Automation;Go+Backend+%26+Distributed+Systems;Building+Production-Grade+Software)](https://git.io/typing-svg)
+**Network Automation & Future Networks Engineer Candidate**
+
+I build reproducible network labs, SDN automation workflows, NDN simulations, and Go-based backend tools.
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36E4DA&center=true&vCenter=true&width=760&lines=Computer+Engineering+Student;Network+Automation+%26+SDN;Go+Backend+%26+Distributed+Systems;Reproducible+Network+Labs;Future+Networks+%26+NDN)](https://git.io/typing-svg)
 
 <br/>
 
-I’m **Yasin Engin**, a Computer Engineering student with a strong networking background (**CCNA**) and a focus on **SDN and network automation**.
-
-I build tooling and systems that make networks easier to operate: automation workflows, API-driven services, and distributed components for logging/monitoring. Most of my projects are implemented in **Go**, using **gRPC**, message brokers, and containerized deployments.
-
-**This profile is a collection of:**
-- **Network Automation** experiments (labs, reproducible setups)
-- **Go services** (REST/gRPC, auth patterns, distributed logging)
-- **Distributed systems practice** (fault tolerance, coordination, persistence)
+<a href="https://yasinenginn.github.io/">
+  <img src="https://img.shields.io/badge/Portfolio-yasinenginn.github.io-36E4DA?style=for-the-badge&logo=githubpages&logoColor=black" alt="Portfolio">
+</a>
+<a href="https://www.linkedin.com/in/yasin-engin/">
+  <img src="https://img.shields.io/badge/LinkedIn-Yasin%20Engin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://www.youtube.com/@Netreka_Akademi">
+  <img src="https://img.shields.io/badge/Netreka%20Academy-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+</a>
 
 </div>
 
 ---
 
+## About
+
+I’m **Yasin Engin**, a Computer Engineering student focused on **Network Automation**, **Software-Defined Networking**, **Named Data Networking**, and **Go-based backend systems**.
+
+I like building systems that make networks easier to understand, reproduce, test, and operate. My work usually combines networking labs, automation workflows, API-driven services, distributed components, and production-minded documentation.
+
+My current focus:
+
+- Reproducible network labs with Containerlab, Ansible, gNMI, and YANG
+- SDN and future network architectures
+- NDN / ICN simulation and research notes
+- Go backend systems with gRPC, Docker, RabbitMQ, and databases
+- CCNA / CCNP-level routing, switching, and automation practice
+
+---
+
 ## Focus Areas
 
-| Network Automation & SDN | Backend Engineering | Distributed Systems |
+| Network Automation | Backend Engineering | Distributed Systems |
 |:---:|:---:|:---:|
-| Labs, tooling, model-driven mindset | Go (REST APIs, gRPC, microservices) | Fault tolerance, replication, observability |
+| SDN, labs, Ansible, gNMI, YANG | Go, REST APIs, gRPC, Docker | Fault tolerance, replication, observability |
 
 ---
 
@@ -31,22 +52,24 @@ I build tooling and systems that make networks easier to operate: automation wor
 
 <div align="center">
 
-**Languages**  
-<img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
+**Languages & Backend**  
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=grpc&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20API-111827?style=for-the-badge&logo=fastapi&logoColor=white" />
 
-**Backend & Systems**  
-<img src="https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=grpc&logoColor=white" />
-<img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+**Infrastructure & Messaging**  
+<img src="https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 
 **Databases**  
-<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 
 **Networking**  
 <img src="https://img.shields.io/badge/Cisco%20CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/SDN-36E4DA?style=for-the-badge" />
+<img src="https://img.shields.io/badge/NDN-7C3AED?style=for-the-badge" />
 
 </div>
 
@@ -54,42 +77,26 @@ I build tooling and systems that make networks easier to operate: automation wor
 
 ## Featured Projects
 
-### [Netreka-Nexus (Microservices Hub)](https://github.com/YasinEnginExpert/Netreka-Nexus)
-> *Go microservices reference architecture.*
-- **Tech Stack**: Docker Swarm, RabbitMQ, gRPC, Caddy gateway, Postgres + Mongo.
+### [Portfolio & Technical Hub](https://yasinenginn.github.io/)
+Personal website for projects, case studies, technical notes, videos, research library, and CV.
 
-### [Tolerex (Distributed Fault-Tolerant Storage)](https://github.com/YasinEnginExpert/Tolerex)
-> *Leader–Member design for distributed storage.*
-- **Tech Stack**: gRPC + mTLS, heartbeat failure detection, disk persistence, metrics/logging.
+### [Tolerex](https://yasinenginn.github.io/projects/tolerex/)
+Fault-tolerant distributed storage system built with **Go**, **gRPC**, **mTLS**, heartbeat failure detection, replication, and recovery-oriented design.
 
-### [REST-API (Network Inventory / Management)](https://github.com/YasinEnginExpert/REST-API)
-> *Enterprise-style API with auth/RBAC concepts.*
-- **Tech Stack**: Database layer, Dockerized workflow.
+### [Rehydrator](https://yasinenginn.github.io/projects/rehydrator/)
+CC1352R Contiki-NG firmware update project focused on OAD image verification, flash layout, and TI BIM compatibility.
 
-### [my-ansible-lab](https://github.com/YasinEnginExpert/my-ansible-lab)
-> *Network automation labs for repeatable network testing.*
-- **Tech Stack**: Containerlab, Ansible.
+### [Network Automation Labs](https://yasinenginn.github.io/projects/network-automation-labs/)
+Reproducible SDN and automation labs using **Nokia SR Linux**, **Containerlab**, **Ansible**, **gNMI**, and **YANG**.
 
-<!-- Repositories are pinned on my profile for quick access. -->
+### [Netreka Nexus](https://github.com/YasinEnginExpert/Netreka-Nexus)
+Go microservices hub with RabbitMQ event routing, gRPC logging, Docker Swarm, Caddy, PostgreSQL, and MongoDB.
 
 ---
 
-## Connect
+## Current Direction
 
-<div align="center">
+I am building toward a career around:
 
-<a href="https://www.linkedin.com/in/yasin-engin/">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="https://www.youtube.com/@Netreka_Akademi">
-  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube">
-</a>
-<a href="https://github.com/YasinEnginExpert">
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-
-<br/>
-
-> *Network Automation / Backend Engineering / DevOps*
-
-</div>
+```text
+Network Automation + Future Networks + Go Backend Systems
